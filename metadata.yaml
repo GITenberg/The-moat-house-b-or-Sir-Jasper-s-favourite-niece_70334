@@ -1,0 +1,23 @@
+_repo: The-moat-house-b-or-Sir-Jasper-s-favourite-niece_70334
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stooke, Eleanora H.
+    gutenberg_agent_id: '55669'
+    url: http://www.gutenberg.org/2009/agents/55669
+description: ''
+gutenberg_issued: '2023-03-21'
+identifiers:
+  gutenberg: '70334'
+language: en
+pgterms:marc905: 20230314113428stooke
+pgterms:marc906: '1905'
+pgterms:marc907: GB
+publication_note: '  $aUnited Kingdom :$bS.W. Partridge & Co., $c1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The moat house : $b or "Sir Jasper''s favourite niece."'
+url: http://www.gutenberg.org/ebooks/70334
